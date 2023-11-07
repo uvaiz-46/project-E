@@ -1106,3 +1106,150 @@ color: white;
         margin-left: 24px;
     }
 }
+@media (max-width:450px) {
+    .bar nav a {
+        font-size: 8px;
+        padding-left: 0px;
+    }
+    .bar nav p {
+        font-size: 21px;
+        margin-top: -2px;
+        margin-left: -26%;
+    }
+    .container1 .title p {
+        font-size: 48px;
+    }
+    .container1 .title .title2 {
+        font-size: 28px;
+    }
+    .container2 .tit {
+        font-size: 85px;
+        padding-left: 17px;
+        padding-bottom: 0%;
+    }
+    .container2 .image1 {
+        height: 78vh;
+        width: 78%;
+        margin-left: 31px;
+        margin-bottom: 19px;
+    }
+    .container2 .image .image1 P {
+        font-size: 30px;
+        margin-top: -55%;
+        margin-left: 21px;
+    }
+    .container2 .image .cat img {
+        height: 77vh;
+        margin-left: 25px;
+        width: 147%;
+    }
+    .container2 .image .cat p {
+        font-size: 18px;
+        width: 76%;
+        margin-left: 31px;
+        margin-top: -41%;
+    }
+    .container3 .tit2 p {
+        font-size: 49px;
+        margin-left: 20px;
+    }
+    .container3 .image2 img {
+        /* padding-bottom: 20px; */
+        width: 54%;
+        height: 46vh;
+        margin-bottom: 31px;
+    }
+    .container3 {
+        height: 350vh;
+    }
+    .container3 .image2 {
+        height: 310vh;
+    }
+    .container4 h1 {
+        padding-top: 145px;
+        font-size: 18px;
+    }
+    .container4 p {
+        font-size: 16px;
+        padding-top: 30px;
+    }
+    .container4 button {
+        font-size: 11px;
+        margin-left: 35%;
+        margin-top: 8%;
+    }
+    .box1 {
+        height: 59vh;
+        width: 82%;
+        margin-left: 36px;
+    }
+    .box2 {
+        height: 59vh;
+        width: 82%;
+        margin-left: 36px;
+        margin-top: 70%;
+    }
+    .box3 {
+        height: 59vh;
+        width: 82%;
+        margin-left: 36px;
+    }
+    .container5 .boxes p {
+        font-size: 22px;
+        padding-top: 25%;
+    }
+    .container5 .boxes h1 {
+        font-size: 26px;
+        margin-top: 28%;
+    }
+    .box3 {
+        height: 59vh;
+        width: 82%;
+        margin-left: 36px;
+        margin-top: 70%;
+    }
+    .foot h2 {
+        color: #00c853;
+        padding: 2%;
+        font-size: 21px;
+    }
+    .fot a {
+        font-size: 9px;
+    }
+    .fot {
+        width: 55%;
+        margin-top: -11.5%;
+    }
+    .foot h3 {
+        font-size: 12px;
+    }
+    .icon2 i {
+        font-size: 18px;
+    }
+    .join {
+        margin-top: 7%;
+        margin-left: 80px;
+    }
+    .icon2 {
+        margin-top: -18.99%;
+    }
+    .join input {
+        width: 99%;
+        height: 6vh;
+    }
+    .join p {
+        width: 19%;
+        height: 6vh;
+        font-size: 18px;
+        margin-right: -35%;
+    }
+    .join p {
+        width: 22%;
+        height: 6vh;
+        font-size: 20px;
+        margin-right: -34%;
+    }
+    .icon2 {
+        margin-top: -20.99%;
+    }
+}
